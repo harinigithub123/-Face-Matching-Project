@@ -16,6 +16,18 @@ pip install ...
 ```python
 import pillow
 
+import all the required lib 
+
+create a upload file and move the src,target.jpg
+
+run 
+
+python -m streamlit run app.py
+
+
+upload images to be compared 
+ 
+ DONE
 
 ```
 
